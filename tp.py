@@ -161,7 +161,7 @@ other = {
     '}': 'U+F199B',  # end right-combining (reversed) long glyph
 
     '.': 'U+F199C',  # sitelen pona full stop
-    r'\:': 'U+F199D',  # sitelen pona colon
+    ':': 'U+F199D',  # sitelen pona colon
 
 
     ' ': 'U+3000',  # logograph fullwidth space
