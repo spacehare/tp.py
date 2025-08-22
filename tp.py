@@ -1,6 +1,7 @@
 import ahk
 import re
 
+# https://github.com/etbcor/nasin-nanpa/tree/main/ahk-script
 nimi = {
     'kijetesantakalu': 'U+F1980',  # 󱦀
     'misikeke': 'U+F1987',  # 󱦇
